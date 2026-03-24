@@ -33,4 +33,4 @@ The C-terminal of CIRBP is an Intrinsically Disordered Region (IDR) necessary fo
 * `rmsd_baleia.png` - The RMSD trajectory plot.
 
 ---
-**Full Preprint & Discussion:** [https://doi.org/10.55277/researchhub.7b226uur]
+**Full Preprint & Discussion:** https://doi.org/10.55277/researchhub.7b226uur
